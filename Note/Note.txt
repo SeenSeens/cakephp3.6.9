@@ -1,0 +1,18 @@
+Creating Links
+https://book.cakephp.org/3.0/en/views/helpers/html.html.
+
+Login, Register 
+https://book.cakephp.org/3.0/en/views/helpers/form.html
+
+Icons
+https://glyphicons.com/
+https://www.w3schools.com/icons/fontawesome_icons_webapp.asp
+
+Mẫu xác thực
+https://book.cakephp.org/3.0/en/core-libraries/validation.html
+
+tài liệu xác thực truy cập csdl
+https://book.cakephp.org/3.0/en/orm/validation.html
+
+
+https://getbootstrap.com/docs/4.1/components/forms/#tooltips
